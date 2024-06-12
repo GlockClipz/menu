@@ -1,3 +1,5 @@
+		-- [[ // Error Handling // ]]
+			-- [[ // Libraries // ]]
 			local library = {
 				Renders = {},
 				Connections = {},
@@ -2373,6 +2375,5 @@
 					--
 					return Content
 				end
+				return libary
 			end
-
-			return library
